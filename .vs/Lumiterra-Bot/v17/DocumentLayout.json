@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\15\\Lumiterra\\Lumiterra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Lumiterra-Exp\\Form11\\Form1.csproj|d:\\githubnew\\15\\lumiterra\\lumiterra\\lumiterra-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Lumiterra-Exp\\Form11\\Form1.csproj|solutionrelative:lumiterra-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Lumiterra-Exp\\Lumiterra.Bot.csproj|d:\\githubnew\\15\\lumiterra\\lumiterra\\lumiterra-exp\\lumiterracounter\\hotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Lumiterra-Exp\\Lumiterra.Bot.csproj|solutionrelative:lumiterra-exp\\lumiterracounter\\hotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\15\\Lumiterra\\Lumiterra\\Lumiterra-Exp\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "Lumiterra-Exp\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\15\\Lumiterra\\Lumiterra\\Lumiterra-Exp\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "Lumiterra-Exp\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:56:00.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotKeys.cs",
+              "DocumentMoniker": "D:\\GithubNew\\15\\Lumiterra\\Lumiterra\\Lumiterra-Exp\\LumiterraCounter\\HotKeys.cs",
+              "RelativeDocumentMoniker": "Lumiterra-Exp\\LumiterraCounter\\HotKeys.cs",
+              "ToolTip": "D:\\GithubNew\\15\\Lumiterra\\Lumiterra\\Lumiterra-Exp\\LumiterraCounter\\HotKeys.cs",
+              "RelativeToolTip": "Lumiterra-Exp\\LumiterraCounter\\HotKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:55:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
